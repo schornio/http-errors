@@ -1,0 +1,29 @@
+{
+  "name": "@schornio/http-errors",
+  "version": "1.0.0",
+  "description": "Error classes for HTTP-error-codes (4xx, 5xx)",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha --report html --dir ./report/coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://schornio@github.com/schornio/http-errors.git"
+  },
+  "keywords": [
+    "http",
+    "error",
+    "codes"
+  ],
+  "author": "Thomas Schorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schornio/http-errors/issues"
+  },
+  "homepage": "https://github.com/schornio/http-errors#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.4"
+  }
+}
