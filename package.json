@@ -1,6 +1,6 @@
 {
   "name": "@schornio/http-errors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Error classes for HTTP-error-codes (4xx, 5xx)",
   "main": "index.js",
   "scripts": {
